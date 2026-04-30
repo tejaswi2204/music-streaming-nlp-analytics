@@ -1,0 +1,19 @@
+# Core Data Processing
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# NLP Libraries
+nltk
+vaderSentiment
+transformers
+torch
+
+# Web Scraping
+google-play-scraper
+
+# Jupyter Support
+jupyter
+ipykernel

@@ -1,0 +1,31 @@
+# Python cache files (auto-generated, not needed)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook auto-save junk
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.env/
+
+# Environment variables / secrets (NEVER push these)
+.env
+*.env
+
+# Large or sensitive data files
+*.csv
+*.xlsx
+*.xls
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Byte-compiled files
+*.pyc
