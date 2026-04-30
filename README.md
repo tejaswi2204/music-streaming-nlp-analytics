@@ -1,11 +1,5 @@
 # 🎵 Product Analytics and User Feedback Analysis of Music Streaming Platforms using NLP
 
-> MCA Final Year Project | KL Education Foundation  
-> Department of Computer Science and Applications  
-> \*\*Student:\*\* S. Lakshmi Tejaswi (2401600069)  
-> \*\*Guide:\*\* Mr. L Nageswar Rao, Asst. Professor M.Tech (PhD)
-
-\---
 
 ## 📌 Overview
 
@@ -224,16 +218,6 @@ sentence-transformers
 * Pang \& Lee (2008) — Opinion Mining and Sentiment Analysis
 * Pedregosa et al. (2011) — Scikit-learn
 * Bird, Klein \& Loper (2009) — NLTK
-
-\---
-
-## 👩‍💻 Author
-
-**S. Lakshmi Tejaswi**  
-Roll No: 2401600069  
-Master of Computer Applications  
-Department of Computer Science and Applications  
-KL Education Foundation, Vaddeswaram, Andhra Pradesh
 
 \---
 
