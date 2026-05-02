@@ -221,7 +221,4 @@ sentence-transformers
 
 \---
 
-## 📄 License
-
-This project is submitted for academic purposes at KL University. All rights reserved.
 
